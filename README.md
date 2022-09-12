@@ -14,7 +14,7 @@
 
 - 💻 I'm working as trainee student
 
-- 🌱 I'm learning React
+- 🌱 I'm learning Spring Boot
 
 - ⌛ In my free time, I write more code and go to country side.
 
