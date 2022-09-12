@@ -12,7 +12,7 @@
 <hr>
 <h3><br>About Me :</br></h3>
 
-- 💻 I'm working as trainee student
+- 💻 I'm working as Back-end dev
 
 - 🌱 I'm learning Spring Boot
 
